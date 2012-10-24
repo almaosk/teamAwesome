@@ -1,9 +1,1 @@
-I am editing this document!
-<<<<<<< HEAD
-COFLICT!!!!!! RAWR
-=======
-
-muhahah will it be conflicted?
->>>>>>> b06fa6ab66bc75688173c54a22bc07915c7d844b
-
-Editied without conflicts
+I am totally rewriting this bastard.
